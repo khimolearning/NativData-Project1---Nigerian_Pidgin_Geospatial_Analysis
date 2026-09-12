@@ -1,0 +1,38 @@
+state_name,pidgin_speakers_estimate,pidgin_concentration_percent,geopolitical_zone
+Lagos,8500000,85,South West
+Oyo,4200000,72,South West
+Ogun,2100000,68,South West
+Ondo,1800000,65,South West
+Osun,1500000,58,South West
+Ekiti,900000,52,South West
+Rivers,5200000,88,South South
+Bayelsa,1200000,90,South South
+Delta,3400000,82,South South
+Cross River,1100000,60,South South
+Akwa Ibom,1600000,62,South South
+Edo,1800000,70,South South
+Anambra,2800000,75,South East
+Enugu,1900000,72,South East
+Ebonyi,1200000,68,South East
+Imo,2400000,78,South East
+Abia,1700000,70,South East
+Kaduna,2100000,45,North Central
+Nassarawa,800000,38,North Central
+Kogi,1200000,42,North Central
+Kwara,900000,35,North Central
+Niger,1000000,40,North Central
+Benue,1100000,48,North Central
+Plateau,1300000,50,North Central
+Kano,2500000,35,North West
+Katsina,1800000,32,North West
+Kebbi,950000,30,North West
+Sokoto,1100000,28,North West
+Zamfara,800000,25,North West
+Jigawa,1200000,33,North West
+Bauchi,1400000,38,North East
+Gombe,900000,42,North East
+Adamawa,1200000,40,North East
+Borno,1600000,35,North East
+Yobe,1000000,38,North East
+Taraba,1100000,45,North East
+Federal Capital Territory,1500000,55,North Central
