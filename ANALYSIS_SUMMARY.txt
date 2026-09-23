@@ -4,7 +4,7 @@ PROJECT 1: NATIVDATA GIS LAYER
 DETAILED ANALYSIS SUMMARY
 Pidgin Speaker Concentration & Financial Inclusion in Nigeria
 
-Author: Sunmisola Osawere (Khimo)
+Author: Olokhimo Oluwasunmisola Osawere (Khimo)
 Date: September 2026
 Status: COMPLETE
 
@@ -550,27 +550,24 @@ FOR UNIVERSITY APPLICATIONS:
 
 This project shows admissions committees:
 
-1. You can identify research questions on your own (not just follow 
+1. I can identify research questions on your own (not just follow 
    tutorials)
 
-2. You can work with real data in messy formats (shapefiles, CSVs) and 
+2. I can work with real data in messy formats (shapefiles, CSVs) and 
    clean it properly
 
-3. You understand geospatial analysis, a specialized and valued skillset
+3. I understand geospatial analysis, a specialized and valued skillset
 
-4. You can create professional visualizations that communicate insights
+4. I can create professional visualizations that communicate insights
 
-5. You document your work transparently so others can reproduce it
+5. I document your work transparently so others can reproduce it
 
-6. You can interpret statistical results and discuss limitations
+6. I can interpret statistical results and discuss limitations
 
-7. You think about the story data tells, not just the numbers
+7. I think about the story data tells, not just the numbers
 
 FOR EMPLOYER INTERVIEWS:
-
-You can confidently discuss:
-
-"I built this geospatial analysis project from scratch. The question was: 
+The question was: 
 where do Pidgin speakers live in Nigeria and how does this relate to 
 financial inclusion? I sourced data from multiple sources, merged them 
 using GeoPandas, analyzed the correlation, and created interactive maps 
@@ -648,22 +645,22 @@ METHODOLOGICAL STRENGTHS
 ================================================================================
 
 Strength 1: Multi-Source Verification
-We didn't rely on one data source. We combined shapefiles, CSVs, and zone-
+I didn't rely on one data source. I combined shapefiles, CSVs, and zone-
 level aggregates. Multiple sources confirm the pattern.
 
 Strength 2: Transparent Limitations
-We documented exactly what we didn't know (Pidgin is estimated, finance is 
+I documented exactly what I didn't know (Pidgin is estimated, finance is 
 formal only) rather than hiding it.
 
 Strength 3: Reproducibility
 All code is on GitHub. Anyone can run the analysis and get identical results.
 
 Strength 4: Appropriate Statistical Methods
-We calculated Pearson correlation, which is correct for two continuous 
-variables. We didn't overreach statistically.
+I calculated Pearson correlation, which is correct for two continuous 
+variables. I didn't overreach statistically.
 
 Strength 5: Visual Clarity
-We showed the same data at three levels (zones, choropleth, overlay) so 
+I showed the same data at three levels (zones, choropleth, overlay) so 
 viewers could understand at multiple depths.
 
 ================================================================================
@@ -671,7 +668,7 @@ AREAS FOR IMPROVEMENT
 ================================================================================
 
 Improvement 1: Quantify Uncertainty
-We could add confidence intervals around our correlation. We could simulate 
+Adding confidence intervals around the correlation. We could simulate 
 different Pidgin estimates to see how sensitive results are.
 
 Improvement 2: Temporal Analysis
